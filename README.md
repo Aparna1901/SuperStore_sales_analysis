@@ -7,19 +7,17 @@ Analysis of the Sales of a particular store.
 <summary>Table of Contents</summary>
   
 - [Objective](#description)
-- [Links](#links)
+- [Link](#links)
 - [Analysis](#applications)
   
 </details>
 
 ## 📝Objective
-To contribute to the success of business by utilizing data analysis techniques,specifically focusing on time series analysis,to provide valuable insights and accurate sales forecasting.
-Design an intuitive dashboard ,add creative visualizations and filtering capabilities to allow useres to explore the data at various level of granuality.
-Provide valuable insights to buisness entities regarding the effectiveness of their sales strategies through visualization and charts.
+To contribute to the success of business by utilizing data analysis techniques,specifically focusing on time series analysis,to provide valuable insights and accurate sales forecasting.Design an intuitive dashboard ,add creative visualizations and filtering capabilities to allow useres to explore the data at various level of granualityand also provide valuable insights to buisness entities regarding the effectiveness of their sales strategies through visualization and charts.
 
-## 🔗Links
+## 🔗Link
 
-- [GitHub Repository](https://github.com/Chanchal1010/NETRA)
+- [GitHub Repository](https://github.com/Aparna1901/SuperStore_sales_analysis.git)
 
 ## 💸Analysis
 - Imported data from csv file , cleaning and understanding data and transforming it into exclusive dashboard which provides us the valuable insights and accurate sales forecasting for the particular store.
